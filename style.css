@@ -1,9 +1,17 @@
 .Harvey_img{
-    margin-left: 420px;
+    border: solid;
+    text-align: right;
 }
 body {
     background-color: yellow;
 }
 .title {
+    border: solid;
     color: red;
+}
+.greeting{
+    border: solid;
+}
+.suggestion {
+    text-decoration: underline;
 }
