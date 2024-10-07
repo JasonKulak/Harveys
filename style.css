@@ -1,17 +1,29 @@
-.Harvey_img{
-    border: solid;
-    text-align: right;
+.header {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.Harvey_img {
+    /* border: solid; */
 }
 body {
     background-color: yellow;
 }
+/* .title_n_greet {
+    border: solid;
+} */
 .title {
-    border: solid;
+    /* border: solid; */
     color: red;
+    text-decoration: underline;
 }
-.greeting{
-    border: solid;
+.greeting { 
+    /* border: solid; */
+    margin-top: 25%;
 }
 .suggestion {
     text-decoration: underline;
+}
+.numbers {
+
 }
