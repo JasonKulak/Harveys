@@ -1,7 +1,8 @@
 .header {
-    display: flex;
+    text-align: center;
+    /* display: flex;
     flex-direction: row-reverse;
-    justify-content: space-between;
+    justify-content: space-between; */
 }
 .Harvey_img {
     /* border: solid; */
@@ -12,17 +13,19 @@ body {
 /* .title_n_greet {
     border: solid;
 } */
-.title {
+/* .title {
     /* border: solid; */
-    color: red;
+    /* color: red;
     text-decoration: underline;
-}
+} */
 .greeting { 
     /* border: solid; */
-    margin-top: 25%;
+    color: red;
 }
 .suggestion {
     text-decoration: underline;
+    margin-bottom: 15%;
+    color: red;
 }
 .numbers {
 
