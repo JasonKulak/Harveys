@@ -11,12 +11,7 @@ body {
     background-color: yellow;
 }
 /* .title_n_greet {
-    border: solid;
-} */
-/* .title {
-    /* border: solid; */
-    /* color: red;
-    text-decoration: underline;
+    border: solid black;
 } */
 .greeting { 
     /* border: solid; */
@@ -29,4 +24,17 @@ body {
 }
 body {
     font-family: Playwrite DE Grund;
+}
+hr{
+    border: solid black;
+    height: 10px;
+    background-color: black;
+}
+.Steak_Eggs{
+    text-decoration: underline;
+    font-size: xx-large;
+    font-weight: bold;
+}
+footer{
+    color: blue;
 }
