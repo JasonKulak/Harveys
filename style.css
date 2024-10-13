@@ -37,4 +37,12 @@ hr{
 }
 footer{
     color: blue;
+    margin-bottom: 10%;
+}
+.design_by{
+    font-size: x-small;
+}
+.design_name{
+    text-decoration: underline;
+    font-size: large;
 }
