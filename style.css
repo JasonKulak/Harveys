@@ -35,6 +35,10 @@ hr{
     font-size: xx-large;
     font-weight: bold;
 }
+.bf_specials{
+    text-decoration: underline;
+    font-size: x-large;
+}
 footer{
     color: blue;
     margin-bottom: 10%;
