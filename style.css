@@ -30,14 +30,12 @@ hr{
     height: 10px;
     background-color: black;
 }
-.Steak_Eggs{
+.Breakfast_Option{
     text-decoration: underline;
     font-size: xx-large;
-    font-weight: bold;
 }
-.bf_specials{
-    text-decoration: underline;
-    font-size: x-large;
+.Served_with{
+
 }
 footer{
     color: blue;
