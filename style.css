@@ -53,8 +53,11 @@ footer{
     font-family: Playwrite DE Grund;
 }
 .about_title{
-
+    text-decoration: underline;
 }
 .about_description{
-
+   
+}
+.about_footer{
+    margin-top: 25px;
 }
