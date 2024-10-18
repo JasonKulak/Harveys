@@ -45,7 +45,8 @@ footer{
     font-size: x-small;
 }
 .design_name{
-    text-decoration: underline;
+    color: red;
+    font-style: italic;
     font-size: large;
 }
 .about_body{
@@ -53,6 +54,7 @@ footer{
     font-family: Playwrite DE Grund;
 }
 .about_title{
+    color: blue;
     text-decoration: underline;
 }
 .about_description{
