@@ -41,7 +41,13 @@ footer{
     color: blue;
     margin-bottom: 10%;
 }
+.Harveys_Contact{
+    /* border: solid black; */
+    width: 200px;
+}
 .design_by{
+    /* border: solid black; */
+    width: 200px;
     font-size: x-small;
 }
 .design_name{
