@@ -19,7 +19,7 @@ body {
 }
 .suggestion {
     text-decoration: underline;
-    margin-bottom: 15%;
+    /* margin-bottom: 10%; */
     color: red;
 }
 body {
