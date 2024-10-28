@@ -44,15 +44,15 @@ footer{
 .Harveys_Contact{
     /* border: solid black; */
     width: 200px;
+    /* font-size: large; */
 }
 .design_by{
     /* border: solid black; */
     width: 200px;
-    font-size: x-small;
+    font-size: medium;
 }
 .design_name{
     color: red;
-    font-style: italic;
     font-size: large;
 }
 .about_body{
