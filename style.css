@@ -46,6 +46,9 @@ footer{
     width: 200px;
     /* font-size: large; */
 }
+.phone_num{
+    font-style: italic;
+}
 .design_by{
     /* border: solid black; */
     width: 200px;
