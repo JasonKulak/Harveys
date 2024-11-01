@@ -69,6 +69,10 @@ footer{
 .about_description{
    
 }
+.about_contact{
+    color: blue;
+    text-decoration: underline;
+}
 .about_footer{
     margin-top: 25px;
 }
